@@ -1,6 +1,6 @@
 {
   "name": "md2xmd",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "converts markdown to xmarkdown",
   "main": "./lib/md2xmd.js",
   "bin": {
