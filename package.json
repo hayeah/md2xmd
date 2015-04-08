@@ -2,13 +2,17 @@
   "name": "md2xmd",
   "version": "0.0.0",
   "description": "converts markdown to xmarkdown",
-  "main": "index.js",
+  "main": "./lib/md2xmd.js",
+  "bin": {
+    "md2xmd": "./bin/md2xmd.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Howard Yeh",
   "license": "MIT",
   "dependencies": {
-    "marked": "^0.3.3"
+    "marked": "^0.3.3",
+    "minimist": "^1.1.1"
   }
 }
