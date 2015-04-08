@@ -2,6 +2,8 @@
 
 This is very rough, and at the moment only goes as far as satisfying my own needs.
 
+It converts from markdown to [xmarkdown](http://github.com/hayeah/xmd).
+
 # Install
 
 ```
