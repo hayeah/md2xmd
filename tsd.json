@@ -1,0 +1,18 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "marked/marked.d.ts": {
+      "commit": "954c64c100478ebb0b3cd1d9949237c2ee6c2a9d"
+    },
+    "node/node.d.ts": {
+      "commit": "954c64c100478ebb0b3cd1d9949237c2ee6c2a9d"
+    },
+    "minimist/minimist.d.ts": {
+      "commit": "954c64c100478ebb0b3cd1d9949237c2ee6c2a9d"
+    }
+  }
+}
